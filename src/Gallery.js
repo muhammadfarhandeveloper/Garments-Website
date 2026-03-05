@@ -5,13 +5,7 @@ import Slider from './slider';
 
 const Gallery = () =>{
       
-    const addToCart = () =>{
-        return(
-            <>
 
-            </>
-        )
-    }
     return(
         <>
                <Slider/>
