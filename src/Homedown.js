@@ -17,7 +17,7 @@ const Homedown = () =>{
      <div className="container mt-5">
      <div className="row mt-3">
      <div className="col-md-6">
-     <img src={img3} width="100%" height="300px"/>
+     <img src={img3} width="100%" height="300px" alt='Garments Text'/>
 
      </div>
 
@@ -43,7 +43,7 @@ const Homedown = () =>{
     <button className="btn btn-primary btn-lg">More...</button>
      </div>
      <div className="col-md-6">
-     <img src={img7} width="100%" height="300px"/>
+     <img src={img7} width="100%" height="300px" alt='Garments Text'/>
 
      </div>
 
@@ -51,7 +51,7 @@ const Homedown = () =>{
 
      </div>
 
-     <img src={img1} className="mt-5" height="600px"  width="100%"/>
+     <img src={img1} className="mt-5" height="600px"  width="100%" alt='Garments Text'/>
 
      <Footer/>
    

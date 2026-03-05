@@ -13,7 +13,7 @@ const About = () =>{
        <div className="container mb-5">
         <div className="row mt-5">
             <div className="col-md-6">
-            <img src="./images/img5.jpg" width="100%" height="400px"/>
+            <img src="./images/img5.jpg" width="100%" height="400px" alt='Garments Text' />
             </div>
             <div className="col-md-6">
              <p className="mt-3">

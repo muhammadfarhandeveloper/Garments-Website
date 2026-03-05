@@ -27,7 +27,7 @@ const Gallery = () =>{
          <div className="col-md-4 mt-5">
                     <div id="card">
                     <div className="card-img">
-                    <img src={res.imgsrc}  width="100%" height="300px" />
+                    <img src={res.imgsrc}  width="100%" height="300px" alt='Garments Text' />
                     </div>
                     <div className="card-body">
                     <h3> {res.img_title}</h3>
